@@ -1,0 +1,5 @@
+path /bin /u/c/s/cs537-1/tests/tests-wish
+p5.sh > output22 & p4.sh > output22
+cat output22
+rm -rf output22
+exit
